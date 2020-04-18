@@ -16,25 +16,25 @@ Como descrito no prefácio do livro **Padrões de Projeto:** *Soluções reutili
 São formas de abstrair como serão criados os objetos antes de serem instanciados, onde a necessidade é ter apenas comportamentos realmente necessários para cada objeto instanciado, vai além do que só herdar atributos e métodos da superclasse.
 Exemplos:
 
- - Singleton := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Prototype := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Builder := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
+ - Singleton := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Prototype := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Builder := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
 
 ### Padrões Estruturais
 
 Os padrões estruturais diz respeito a estrutura dos objetos depois de instanciados, podendo mudar a estrutura de um objeto adicionando novos comportamentos em tempo de execução de acordo com as necessidades da aplicação.
 Exemplos:
- - Bridge	:= [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Decorator := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Facade := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
+ - Bridge	:= [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Decorator := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Facade := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
 
 ### Padrões Comportamentais
 
 Esse padrão auto descritivo se refere ao comportamento e comunicação entre os objetos em tempo de execução, fluxo de controles, estados e outras coisas.
 Exemplos:
- - Strategy := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Observer := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
- - Mediator := [ [Python](#) | [Java](#) | [Dart](#) | [Ruby](#) | [JavaScript](#) | [C++](#) | [C#](#) | [Kotlin](#) ]
+ - Strategy := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Observer := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
+ - Mediator := [ [Python](#) | [Java](#) | [Dart](#) | [JavaScript](#) | [C++](#) | [C#](#) ]
 
 <br />
 
